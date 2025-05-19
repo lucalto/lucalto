@@ -5,7 +5,7 @@
 - Master of Science in Data Science, Birkbeck College, University of London
 2 years Computer and Data Science MSc focused on Fundamentals of Computing, Data Structures, Software
 Development, Data Analytics, Statistics, Information Retrieval, Natural Language Processing, Machine Learning,
-Neural Networks and Deep Learning.
+Neural Networks and Deep Learning. <br>
 Grade: Distinction.
 
 - Master of Engineering in Civil and Environmental Engineering, Politecnico di Milano, Italy (Consistently ranked as
