@@ -1,6 +1,6 @@
 # Data Scientist
 
-### Education
+### :mortar_board: Education
 
 - Master of Science in Data Science, Birkbeck College, University of London
 2 years Computer and Data Science MSc focused on Fundamentals of Computing, Data Structures, Software
